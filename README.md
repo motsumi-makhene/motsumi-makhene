@@ -77,7 +77,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/motsumi-makhene/motsumi-makhene/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
